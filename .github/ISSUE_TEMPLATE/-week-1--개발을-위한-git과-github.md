@@ -1,7 +1,7 @@
 ---
 name: "[Week 1] 개발을 위한 Git과 Github"
 about: Github Workbook 1주차 과제
-title: ''
+title: "[Week 1] - 닉네임 / 이름"
 labels: Week 01
 assignees: ''
 

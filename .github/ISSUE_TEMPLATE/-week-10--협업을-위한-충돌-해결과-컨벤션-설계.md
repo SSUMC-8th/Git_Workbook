@@ -1,7 +1,7 @@
 ---
 name: "[Week 10] 협업을 위한 충돌 해결과 컨벤션 설계"
 about: Github Workbook 10주차 과제
-title: ''
+title: "[Week 10] - 닉네임 / 이름"
 labels: Week 10
 assignees: ''
 
