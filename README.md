@@ -1,5 +1,5 @@
 # Github Session
-여기서부터가 이제 3월 21일 금요일에 진행되는 숭실대학교 Github Session 자료 입니다!
+3월 21일 금요일에 진행되는 숭실대학교 Github Session 자료 입니다!
 
 ## Hand-On 실습 순서
 
