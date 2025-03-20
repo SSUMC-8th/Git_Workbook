@@ -2,7 +2,7 @@
 name: "[Week 1] 개발을 위한 Git과 Github"
 about: Github Workbook 1주차 과제
 title: ''
-labels: ''
+labels: Week 01
 assignees: ''
 
 ---
